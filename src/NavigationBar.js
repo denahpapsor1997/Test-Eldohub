@@ -36,11 +36,11 @@ if(p1==="yes"){
 export const NavigationBar = () => (
   <Styles>
     <Navbar expand="lg" className="btn-success" >
-      <Navbar.Brand href="/">E-Hub Test</Navbar.Brand>
+      <Navbar.Brand href="/">Code Challange</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav"/>
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
-               Nickson Kipkorir  
+             
         </Nav>
       </Navbar.Collapse>
     </Navbar>
